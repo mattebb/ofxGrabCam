@@ -1,3 +1,7 @@
+Forked with tweaks to be more Houdini-like
+- Matt Ebb Sep 2014
+
+
 #ofxGrabCam
 
 <img src="https://raw.github.com/elliotwoods/ofxGrabCam/master/ofxaddons_thumbnail.png" />
